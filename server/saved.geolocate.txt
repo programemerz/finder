@@ -1,0 +1,84 @@
+Latitude: 19.129833899999998
+Longitude: 72.8467955
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36
+Altitude: null
+Accuracy: 41
+Speed: null
+Heading: null
+Platform: MacIntel
+Cores: 4
+Memory: 8
+Screen Height: 800
+Screen Width: 1280
+Latitude: 19.129832099999998
+Longitude: 72.8468166
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36
+Altitude: null
+Accuracy: 36
+Speed: null
+Heading: null
+Platform: MacIntel
+Cores: 4
+Memory: 8
+Screen Height: 800
+Screen Width: 1280
+Latitude: 19.129856699999998
+Longitude: 72.8467561
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36
+Altitude: null
+Accuracy: 38
+Speed: null
+Heading: null
+Platform: MacIntel
+Cores: 4
+Memory: 8
+Screen Height: 800
+Screen Width: 1280
+Latitude: 19.129849095706238
+Longitude: 72.84670228704604
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Mobile/15E148 Safari/604.1
+Altitude: 14.878923416137695
+Accuracy: 65
+Speed: null
+Heading: null
+Platform: iPhone
+Cores: undefined
+Memory: undefined
+Screen Height: 812
+Screen Width: 375
+Latitude: 19.129778299999998
+Longitude: 72.8468619
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36
+Altitude: null
+Accuracy: 34
+Speed: null
+Heading: null
+Platform: MacIntel
+Cores: 4
+Memory: 8
+Screen Height: 800
+Screen Width: 1280
+Latitude: 19.1298447
+Longitude: 72.8468463
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+Altitude: null
+Accuracy: 33
+Speed: null
+Heading: null
+Platform: MacIntel
+Cores: 4
+Memory: 8
+Screen Height: 800
+Screen Width: 1280
+Latitude: 19.1298021
+Longitude: 72.8468819
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+Altitude: null
+Accuracy: 40
+Speed: null
+Heading: null
+Platform: MacIntel
+Cores: 4
+Memory: 8
+Screen Height: 800
+Screen Width: 1280
