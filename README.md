@@ -4,8 +4,6 @@ Finder is a tool to get anyone's IP address, device details and exact geolocatio
 
 ## Instagram: https://instagram.com/programemerz
 
-![](image.png)
-
 ### Features:
 
 #### Works on every device
